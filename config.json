@@ -1,0 +1,32 @@
+﻿{
+  "minPrize": 50.0,
+  "maxPrize": 1000.0,
+  "modes": [
+    "https://example.com/single_thumbnail.png",
+    "https://example.com/team_thumbnail.png",
+    "https://example.com/box_thumbnail.png"
+  ],
+  "gifs": [
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdrbDNyMXp2bTk4dGo4ZTZmMHJiNDNkankxeWM3NWd4YmFseHF4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U56UKYAO8ToW8ycuDe/giphy-downsized-large.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RvZnNpZ2djOWx5a3I1d2YyZHh5czVkZmZxaDdrZ3A3YWJidGxocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MViYNpI0wx69zX7j7w/giphy.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjczNjZzYXl2b2Z3dGRrbDI1ZHV6dmVmemVwMXppOTR1Zzc4aXY4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10kA08wzloZws/giphy.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNreWphdjA1MjA0MmVtNXFucDA1b2JhYndoMmY1b2h3c2g0c2I1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMkPpxPDYY0fu/giphy.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY296ZHcxZXFyZGFtcjUzYXN0Y3czNG54NzV4aW50dmt3cWpyZXNpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TmT51OyQLFD7a/giphy.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3oxMXBobGpucGNudzI3N3h6ZHBwb29zOGJrY3oxZnJydzFvNnFnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DgLwPZVu5tT32/giphy.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBtOXBwcmNlZHliM2p3NHJ6aTFmZmFhMjEwendpdWd4cmhybndmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IgtkFApNRmWytkB073/giphy.gif",
+    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZ4YWl4aGpkdXhoZmQ3dnB5ZXBrMmp0Nm1rNHQ1aTRtdzNoNnplMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ofK1go9uLVyPbB8cze/giphy.gif"
+  ],
+  "messages": [
+    "Hey {role}, congratulations to {username}! They won ${prize} from {mode}.\n<#123> is your guide if you want to join them.",
+    "Greetings {role}! Shoutout to {username} for conquering the challenge and winning ${prize} from {mode}!\nIf you want to join them, make sure to check out <#123>.",
+    "Hey {role}, amazing news! {username} just secured ${prize} in the {mode} mode!\nDive into the action by following <#123> and join them on this epic journey.",
+    "{role}, gather around! {username} has triumphed and won ${prize} from {mode}!\nFor those brave enough to join, <#123> will guide your path.",
+    "Attention {role}! Cheers to {username} for winning ${prize} in the {mode} mode!\nWant to be part of the glory? <#123> is the place to start your adventure.",
+    "{role}, it's celebration time! {username} has claimed ${prize} from {mode}!\nEmbark on your own journey by following <#123> and join the ranks.",
+    "Hey {role}, let's give a round of applause to {username} for earning ${prize} in {mode}!\nIf you want to join the elite, <#123> is your next step.",
+    "{role}, great news! {username} has emerged victorious with ${prize} from {mode}!\nReady to challenge yourself? Head over to <#123> and join the quest.",
+    "{role}, let's celebrate! {username} just bagged ${prize} in the {mode} mode!\nIf you wish to join their ranks, <#123> is your guide.",
+    "Exciting news, {role}! {username} has won ${prize} from {mode}!\nFor those eager to join, follow <#123> and start your adventure.",
+    "{role}, prepare to be amazed! {username} has conquered the {mode} mode and won ${prize}!\nJoin the adventure by heading to <#123>."
+  ]
+}
