@@ -11,7 +11,7 @@ class Program
     static string webhookUrl = "X";
     static async Task Main(string[] args)
     {
-        await SendDiscordEmbedMessage("Yoda", 100, 1);
+        await SendDiscordEmbedMessage("Yoda", 10, 1);
     }
 
     public static async Task SendDiscordEmbedMessage(string username, double prize, int gamemode)
