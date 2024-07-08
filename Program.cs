@@ -7,8 +7,8 @@ using Newtonsoft.Json.Linq;
 
 class Program
 {
-    static string configFileUrl = "https://raw.githubusercontent.com/burakdorman/UnfetteredDiscordAnnouncer/main/config.json";
-    static string webhookUrl = "X";
+    static string configFileUrl = "https://raw.githubusercontent.com/burakdorman/UnfetteredDiscordAnnouncer/master/config.json";
+    static string webhookUrl = "";
     static async Task Main(string[] args)
     {
         await SendDiscordEmbedMessage("Yoda", 10, 1);
